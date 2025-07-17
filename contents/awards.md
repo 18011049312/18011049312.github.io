@@ -1,16 +1,10 @@
-
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Student, 2024.
-
-- First-Prize Scholarship (CUMT), 2024.
-
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+* 四次校级一等奖（5%），两次校级二等奖，学风先进个人，校级文艺积极分子
+* 美国大学生数学建模竞赛，H奖，2024.2
+* 中国机器人技能大赛，一等奖，2024.9
+* 全国大学生数学竞赛江苏省赛区，一等奖，2022.11
+* 江苏大学生交通科技大赛，二等奖（一作），2024.4
+* 第十五届“蓝桥杯”全国软件和信息技术专业人才大赛EDA设计与开发赛道江苏省赛区，二等奖，2024.6
+* 第四届江苏省大学生节能减排社会实践与科技竞赛，二等奖，2024.5
+* 全国“五一”数学建模竞赛，三等奖，2022.5
+* 第十五届江苏省大学生机器人大赛，三等奖，2024.11
+* MathorCup杯全国大学生数学建模竞赛，三等奖，2024.4
