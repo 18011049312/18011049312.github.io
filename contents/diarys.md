@@ -1,9 +1,10 @@
-* 2024-6 \[\[美赛]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-* 2024-1 \[\[数字钟课设]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-
-
-
-
-
-
+* 2023.8  \[\[物理学术竞赛——非接触测量电阻]]（https://maipdf.cn/file/at6878fa676ee51/pdf）
+* 2024.1 \[\[美赛——七鳃鳗种群预测]](https://maipdf.cn/file/at6878f9113385f/pdf)
+* 2024.6 \[\[数字钟课设]](https://maipdf.cn/file/dt6878f6ec97960/pdf)
+* 2025.1 \[\[物理实验竞赛——测量微弱磁场]]（https://maipdf.cn/file/at6878fb16d432e/pdf）
+* 2025.3 \[\[卡尔曼滤波思考博客]]（https://zhuanlan.zhihu.com/p/1928765537552426717）
+* 2025.3 \[\[逆变器制作与并网控制]]（）
+* 2025\.5 \[\[matlab实现牛拉法20节点潮流计算]]（）
+* 2025.6  \[\[simulink交直流调速系统仿真模型搭建及运行特性分析]]（https://maipdf.cn/file/at6878ff132f48b/pdf）
+* 2025\.7 \[\[simulink储能并网变流器仿真模型搭建及运行特性分析]]（https://maipdf.cn/file/at6878fe71db965/pdf）
+* 2025.7 \[\[FPGA入门]]（https://zhuanlan.zhihu.com/p/1929271211034129525）

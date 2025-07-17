@@ -1,17 +1,9 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+本人为南理工电气专业在读学生，喜欢有意思的数学推导和动手实践！并且有点点文艺细胞，会中提琴与小提琴(๑´ڡ`๑)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 联系方式
 
-#### Contact
-
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Email: 922110800425@njust.edu.cn\
+Phone:18011049312
 
